@@ -1,0 +1,2 @@
+AUTO_INC: 0
+CURR_USER: -1
